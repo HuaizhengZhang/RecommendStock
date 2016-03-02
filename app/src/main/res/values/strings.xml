@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">股票推荐1.0</string>
+    <string name="action_settings">设置</string>
+    <string name="title_activity_stock_price">查看股票</string>
+</resources>
